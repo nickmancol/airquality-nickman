@@ -3,4 +3,4 @@ MADAS Iot Machine Learning project
 
 ## The idea
 
-Using the Air quality data set 
+Using the Air quality data set from ARPA (Lombardia, Italy)
