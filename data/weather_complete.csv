@@ -1,4 +1,4 @@
-,station_id,date,val,station_name,latitude,longitude,type,unit
+,sensor_id,date_time,val,station_name,latitude,longitude,type,unit
 0,6030,2013/11/14 11:00,69.0,Milano - via Brera,45.471191999999995,9.187616,Wind Direction,degree
 1,6030,2013/11/14 12:00,59.0,Milano - via Brera,45.471191999999995,9.187616,Wind Direction,degree
 2,6030,2013/11/14 13:00,56.0,Milano - via Brera,45.471191999999995,9.187616,Wind Direction,degree
